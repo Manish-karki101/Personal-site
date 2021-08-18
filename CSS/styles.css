@@ -1,0 +1,139 @@
+           /*************************** CSS FOR ELEMENTS ***************************/
+a {
+    text-decoration: none;
+    color: #fff;
+}
+
+a:hover {
+    color: navajowhite;
+}
+           
+body {
+    color: #40514E;
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+h1 {
+    color: #66BFBF;
+    font-size: 5.625rem;
+    font-family: 'Sacramento', cursive;
+}
+
+h2 {
+    color: #66BFBF;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: normal;
+}
+
+h3 {
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+}
+
+hr {
+    
+    margin-top: 100px;
+    width: 4%;
+    border: #EAF6F6 dotted 6px;
+    border-bottom: 0;
+}
+            /*************************** CSS FOR CLASSES ***************************/
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.Intro {
+    width: 50%;
+    margin: auto;
+}
+.Manish {
+    width: 180px;
+}
+
+.Image1 {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.Image2 {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+
+
+.Copyrights {
+    padding: 20px 0;
+    color: #EAF6F6;
+}
+
+
+.Footer-links {
+    text-decoration: none;
+    color: #11999E;
+    padding-left: 10px;
+}
+
+.Icons {
+    padding-left: 5px;
+}
+
+.Bottom:hover {
+    cursor: pointer;
+    background-color: gray;
+}
+
+.Bottom {
+    margin: 100px auto;
+    width: 20%;
+    background-color: #11cdd4;
+    border-radius: 8px;
+    text-decoration: none;
+}
+
+
+            /***************************** CSS FOR DIVS *****************************/
+.first-container {
+    background-color: #E4F9F5;
+    position: relative;
+    padding-top: 100px;
+}
+
+.middle-container {
+    margin: auto;
+    width: 50%;
+    line-height: 2;
+    padding-top: 100px;
+}
+
+.bottom-container {
+    padding: 50px 0 20px;
+    background-color: #66BFBF;
+    line-height: 2;
+}
+
+
+.Interested {
+    margin: 100px auto 100px auto;
+}
+
+.Skills-right {
+    text-align: left;
+    margin-top: 50px;
+}
+
+.Skills-left {
+    text-align: left;
+    margin-top: 50px;
+}
